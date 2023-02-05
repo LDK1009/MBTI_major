@@ -1,1 +1,1 @@
-# MBTI_Parrot
+# MBTI_major
