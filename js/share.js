@@ -1,4 +1,6 @@
-const url = 'https://twelvelovetype.netlify.app/';
+// const url = 'https://twelvelovetype.netlify.app/';
+const url = 'https://ldk1009.github.io/MBTI_major/';
+
 
 function setShare(){
   var resultImg = document.querySelector('#resultImg');
